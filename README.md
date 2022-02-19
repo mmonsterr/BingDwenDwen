@@ -6,3 +6,4 @@ Python script to draw BingDwenDwen
 # Help
 email:cyjeven@gmail.com  
 备注来意
+嘿嘿
